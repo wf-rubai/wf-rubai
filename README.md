@@ -21,7 +21,7 @@
   🧠 Learning every day, hustling every night
   </pre> -->
 
-  <table>
+  <!-- <table> -->
     <tr>
       <td>
         <pre>
@@ -36,7 +36,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wf-rubai&layout=compact&langs_count=6&theme=tokyonight" />
       </td>
     </tr>
-  </table>
+  <!-- </table> -->
   <!-- <br><br> -->
   <img src="https://github.com/wf-rubai/wf-rubai/blob/main/inventory/LowTensionCoupleStickerGIFAnimation-ezgif.com-reverse.gif?raw=true" height="100" />
   <br><br>
