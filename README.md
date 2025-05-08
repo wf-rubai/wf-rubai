@@ -17,7 +17,7 @@
   <pre>
   💼 Computer Science and Engineering Student
   🛠️ Robotics • Systems • AI • Web Dev • Algorithm
-  👾 Anime • Games • VR • Puzzles • Mechas
+  👾 Anime • Games • VR • Puzzles • Foods
   ⚙️ C++ • Python • JavaScript • Arduino
   🧠 The world is a simulation written in C without comments
   — that's why we suffer to understand it
