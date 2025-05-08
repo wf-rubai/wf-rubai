@@ -30,12 +30,12 @@
   [![](https://img.shields.io/badge/Gaming-7289DA?logo=discord&logoColor=white)](https://discordapp.com/users/yourid) -->
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/washio-ferdous-678709251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-  <!-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/wf-rubai) -->
   [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/wfrubai?s=21)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/washio_ferdous_rubai/)
-  <!-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel) -->
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/no_body_will_know_me)
   [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?style=flat&logo=myanimelist&logoColor=white)](https://myanimelist.net/animelist/wf_rubai)
+  <!-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/wf-rubai) -->
+  <!-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel) -->
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
