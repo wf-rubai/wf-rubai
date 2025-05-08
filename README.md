@@ -53,7 +53,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wf-rubai&layout=compact&langs_count=6&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=wf-rubai&show_icons=true&theme=tokyonight" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=wf-rubai&theme=tokyonight" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wf-rubai&theme=tokyonight" />
   <img src="https://readme-streak-stats.demolab.com?user=wf-rubai&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wf-rubai&layout=compact&theme=tokyonight" />
 
