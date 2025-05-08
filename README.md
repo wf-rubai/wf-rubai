@@ -1,9 +1,10 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FF9D2300&center=true&vCenter=true&multiline=true&width=435&lines=Hello+visitor%2C+I'm+am+Rubai" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FF9D2300&center=true&vCenter=true&multiline=true&width=435&lines=Hello+visitor%2C+it's+Rubai" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FF9D2300&center=true&vCenter=true&multiline=true&width=435&lines=A+wannabe+roboticist+with+a+brain+of+an+anime+protagonist+powered+by+biryani" alt="Typing SVG" /></a>
 <!-- </div> -->
 
 <!-- <div align="center"> --> 
-  <br><br>
+  <br>
   <img src="https://github.com/wf-rubai/wf-rubai/blob/main/inventory/Untitled%20design.png?raw=true" width="25%" align="left" />
   <!-- <img src="https://github.com/wf-rubai/wf-rubai/blob/main/inventory/Untitled%20design.png?raw=true" width="25%"  align="right" /> -->
   
