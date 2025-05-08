@@ -25,7 +25,7 @@
   <img src="https://github.com/wf-rubai/wf-rubai/blob/main/inventory/LowTensionCoupleStickerGIFAnimation-ezgif.com-reverse.gif?raw=true" height="100" />
   <br><br>
 
-  [![](https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  <!-- [![](https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
   [![](https://img.shields.io/badge/AnimeList-2e51a2?logo=MyAnimeList&logoColor=white)](https://myanimelist.net/animelist/wf_rubai)
   [![](https://img.shields.io/badge/Gaming-7289DA?logo=discord&logoColor=white)](https://discordapp.com/users/yourid)
 
@@ -45,7 +45,14 @@
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-  ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+  ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white) -->
+
+  ![Plastic](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+  ![Flat](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Flat Square](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![For The Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Social](https://img.shields.io/badge/Python-3776AB?style=social&logo=python)
+  
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wf-rubai&layout=compact&langs_count=6&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=wf-rubai&show_icons=true&theme=tokyonight" />
