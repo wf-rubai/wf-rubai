@@ -51,7 +51,7 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wf-rubai&layout=compact&langs_count=6&theme=tokyonight" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wf-rubai&layout=compact&langs_count=6&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=wf-rubai&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wf-rubai&theme=tokyonight" />
   <img src="https://readme-streak-stats.demolab.com?user=wf-rubai&theme=tokyonight" />
@@ -60,7 +60,7 @@
 
 ![GitHub Streak](https://readme-streak-stats.demolab.com?user=wf-rubai&theme=tokyonight)
 ![snake gif](https://github.com/wf-rubai/wf-rubai/blob/output/github-contribution-grid-snake.svg)
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername)](https://wakatime.com/)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername)](https://wakatime.com/) -->
 
 
 
