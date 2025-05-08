@@ -6,7 +6,7 @@
 <!-- </div> -->
 
 <!-- <div align="center"> --> 
-  <br>
+  <!-- <br> -->
   <img src="https://github.com/wf-rubai/wf-rubai/blob/main/inventory/Untitled%20design.png?raw=true" width="25%" align="left" />
   <!-- <img src="https://github.com/wf-rubai/wf-rubai/blob/main/inventory/Untitled_design-removebg-preview.png?raw=true" width="25%" align="left" /> -->
   
