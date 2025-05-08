@@ -12,7 +12,7 @@
   <!-- <img src="https://github.com/wf-rubai/wf-rubai/blob/main/inventory/Untitled%20design.png?raw=true" width="25%" align="left" /> -->
   <img src="https://github.com/wf-rubai/wf-rubai/blob/main/inventory/Untitled_design-removebg-preview.png?raw=true" width="25%" align="left" />
   
-  <br>
+  <br><br>
   <pre>
   💼 Computer Engineering Student
   🛠️ Robotics • Systems • AI • Web Dev
@@ -23,7 +23,8 @@
 
   <!-- <br><br> -->
   <img src="https://github.com/wf-rubai/wf-rubai/blob/main/inventory/LowTensionCoupleStickerGIFAnimation-ezgif.com-reverse.gif?raw=true" height="100" />
-  <br><br>
+  <br>
+  <!-- <br> -->
 
   <!-- [![](https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
   [![](https://img.shields.io/badge/AnimeList-2e51a2?logo=MyAnimeList&logoColor=white)](https://myanimelist.net/animelist/wf_rubai)
@@ -54,8 +55,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wf-rubai&show_icons=true&theme=tokyonight" />
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=wf-rubai&theme=tokyonight" /> -->
   <img src="https://readme-streak-stats.demolab.com?user=wf-rubai&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wf-rubai&layout=compact&theme=tokyonight" />
+
 
 ![GitHub Streak](https://readme-streak-stats.demolab.com?user=wf-rubai&theme=tokyonight)
+![snake gif](https://github.com/wf-rubai/wf-rubai/blob/output/github-contribution-grid-snake.svg)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername)](https://wakatime.com/)
+
 
 
 </div>
