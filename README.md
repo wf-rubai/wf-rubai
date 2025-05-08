@@ -19,7 +19,7 @@
   🛠️ Robotics • Systems • AI • Web Dev • Algorithm
   👾 Anime • Games • VR • Puzzles • Mechas
   ⚙️ C++ • Python • JavaScript • Arduino
-  🧠 Learning every day, hustling every night
+  🧠 The world is a simulation written in C without comments—that's why we suffer to understand it
   </pre>
 
   <!-- <br><br> -->
