@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://i.imgur.com/your-cool-anime-boy.gif" width="25%" align="right" />
-  <img src="https://github.com/wf-rubai/wf-rubai/blob/main/inventory/Untitled%20design.png?raw=true" width="70%" />
+  <img src="https://github.com/wf-rubai/wf-rubai/blob/main/inventory/Untitled%20design.png?raw=true" width="25%" align="right" />
+  <!-- <img src="https://github.com/wf-rubai/wf-rubai/blob/main/inventory/Untitled%20design.png?raw=true" width="25%"  align="right" /> -->
   
   <br><br>
   <pre>
