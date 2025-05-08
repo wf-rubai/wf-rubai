@@ -10,8 +10,7 @@
   ⚙️ C++ • Python • JavaScript • Arduino
   🧠 Learning every day, hustling every night
   </pre>
-  <br><br>
-  <!-- <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" height="40" /> -->
+  <!-- <br><br> -->
   <img src="https://github.com/wf-rubai/wf-rubai/blob/main/inventory/LowTensionCoupleStickerGIFAnimation-ezgif.com-reverse.gif?raw=true" height="100" />
   <br><br>
 
