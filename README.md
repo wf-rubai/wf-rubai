@@ -11,8 +11,8 @@
   🧠 Learning every day, hustling every night
   </pre>
   <br><br>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" height="40" />
-  <img src="https://github.com/wf-rubai/wf-rubai/blob/main/inventory/Low%20Tension%20Couple%20Sticker%20GIF%20Animation.gif?raw=true" height="40" />
+  <!-- <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" height="40" /> -->
+  <img src="https://github.com/wf-rubai/wf-rubai/blob/main/inventory/Low%20Tension%20Couple%20Sticker%20GIF%20Animation.gif?raw=true" height="100" />
   <br><br>
 
   [![](https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
