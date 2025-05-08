@@ -15,9 +15,9 @@
   <br>
   <!-- <br> -->
   <pre>
-  💼 Computer Engineering Student
-  🛠️ Robotics • Systems • AI • Web Dev
-  👾 Anime • Games • VR • Cats • Mechas
+  💼 Computer Science and Engineering Student
+  🛠️ Robotics • Systems • AI • Web Dev • Algorithm
+  👾 Anime • Games • VR • Puzzles • Mechas
   ⚙️ C++ • Python • JavaScript • Arduino
   🧠 Learning every day, hustling every night
   </pre>
