@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.imgur.com/your-cool-anime-boy.gif" width="25%" align="right" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=1000&color=5F9EA0&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Hey+there!;I'm+<your_name>,+a+tech+otaku+with+code+katana+%F0%9F%95%B6%EF%B8%8F" width="70%" />
+  <img src="https://github.com/wf-rubai/wf-rubai/blob/main/inventory/Untitled%20design.png?raw=true" width="70%" />
   
   <br><br>
   <pre>
