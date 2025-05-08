@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/wf-rubai/wf-rubai/blob/main/inventory/Untitled%20design.png?raw=true" width="25%" align="right" />
+  <img src="https://github.com/wf-rubai/wf-rubai/blob/main/inventory/Untitled%20design.png?raw=true" hight="100%" align="right" />
   <!-- <img src="https://github.com/wf-rubai/wf-rubai/blob/main/inventory/Untitled%20design.png?raw=true" width="25%"  align="right" /> -->
   
   <br><br>
