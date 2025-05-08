@@ -3,10 +3,10 @@
 <!-- </div> -->
 
 <!-- <div align="center"> --> 
+  <br><br>
   <img src="https://github.com/wf-rubai/wf-rubai/blob/main/inventory/Untitled%20design.png?raw=true" width="25%" align="left" />
   <!-- <img src="https://github.com/wf-rubai/wf-rubai/blob/main/inventory/Untitled%20design.png?raw=true" width="25%"  align="right" /> -->
   
-  <!-- <br><br> -->
   <pre>
   💼 Computer Engineering Student
   🛠️ Robotics • Systems • AI • Web Dev
