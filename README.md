@@ -13,30 +13,14 @@
   <img src="https://github.com/wf-rubai/wf-rubai/blob/main/inventory/Untitled_design-removebg-preview.png?raw=true" width="25%" align="left" />
   
   <br>
-  <!-- <pre>
+  <pre>
   💼 Computer Engineering Student
   🛠️ Robotics • Systems • AI • Web Dev
   👾 Anime • Games • VR • Cats • Mechas
   ⚙️ C++ • Python • JavaScript • Arduino
   🧠 Learning every day, hustling every night
-  </pre> -->
+  </pre>
 
-  <!-- <table> -->
-    <tr>
-      <td>
-        <pre>
-💼 Computer Engineering Student
-🛠️ Robotics • Systems • AI • Web Dev
-👾 Anime • Games • VR • Cats • Mechas
-⚙️ C++ • Python • JavaScript • Arduino
-🧠 Learning every day, hustling every night
-        </pre>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wf-rubai&layout=compact&langs_count=6&theme=tokyonight" />
-      </td>
-    </tr>
-  <!-- </table> -->
   <!-- <br><br> -->
   <img src="https://github.com/wf-rubai/wf-rubai/blob/main/inventory/LowTensionCoupleStickerGIFAnimation-ezgif.com-reverse.gif?raw=true" height="100" />
   <br><br>
@@ -44,4 +28,14 @@
   [![](https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
   [![](https://img.shields.io/badge/AnimeList-2e51a2?logo=MyAnimeList&logoColor=white)](https://myanimelist.net/animelist/wf_rubai)
   [![](https://img.shields.io/badge/Gaming-7289DA?logo=discord&logoColor=white)](https://discordapp.com/users/yourid)
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wf-rubai&layout=compact&langs_count=6&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wf-rubai&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wf-rubai&theme=tokyonight" />
+
 </div>
