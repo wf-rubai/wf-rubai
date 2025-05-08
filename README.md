@@ -11,7 +11,6 @@
   🧠 Learning every day, hustling every night
   </pre>
   <br><br>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" height="40" />
   <img src="[https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif](https://i.pinimg.com/originals/25/f5/0b/25f50bca01a360d940cf512d2b336871.gif)" height="40" />
   <br><br>
 
