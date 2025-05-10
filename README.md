@@ -68,7 +68,12 @@
 
 <!-- ![snake gif](https://github.com/wf-rubai/wf-rubai/blob/output/github-contribution-grid-snake.svg) -->
 
+<!-- <img src="https://raw.githubusercontent.com/wf-rubai/wf-rubai/output/github-contribution-grid-snake.svg" />
+
+![Snake animation](https://github.com/wf-rubai/wf-rubai/blob/output/github-contribution-grid-snake.svg) -->
+
+<!-- ### 🐍 Contribution Snake -->
+
 <img src="https://raw.githubusercontent.com/wf-rubai/wf-rubai/output/github-contribution-grid-snake.svg" />
 
-![Snake animation](https://github.com/wf-rubai/wf-rubai/blob/output/github-contribution-grid-snake.svg)
 </div>
