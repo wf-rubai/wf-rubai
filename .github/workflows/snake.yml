@@ -25,3 +25,4 @@ jobs:
           author_email: github-actions@github.com
           message: "Generate snake animation"
           add: "dist/*"
+
